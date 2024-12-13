@@ -1,16 +1,5 @@
-# prr8
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#АНТОНОВ ЯРОСЛАВ ЭФБО-02-22
+ПРАКТИКА 8
+![image](https://github.com/user-attachments/assets/26348454-a65e-48d5-bf00-d38e8139bb10)
+![image](https://github.com/user-attachments/assets/74ca4c4b-f297-42cb-b518-16062dea0f6d)
+![image](https://github.com/user-attachments/assets/339481b2-2fcf-4edc-8c15-f8efef8d62b7)
